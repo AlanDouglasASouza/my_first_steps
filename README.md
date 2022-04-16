@@ -1,9 +1,8 @@
 <h1 align="center"> 
 	Atividade do Modulo 1 parte 6 <a href="https://www.alphaedtech.org.br">  Alpha EdTech</a>
 </h1>
-<br></br>
 
-## <h3 align="center">Comandos utilizados para esta atividade<h3>
+<h2 align="center">Comandos utilizados para esta atividade<h2>
 
 ####  Questão 02
 
