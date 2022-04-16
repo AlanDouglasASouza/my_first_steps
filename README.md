@@ -1,11 +1,11 @@
 <h1 align="center"> 
-	Atividade do Modulo 1 parte 6 <a href="https://www.alphaedtech.org.br">Alpha EdTech</a>
+	Atividade do Modulo 1 parte 6 <a href="https://www.alphaedtech.org.br">  Alpha EdTech</a>
 </h1>
 <br></br>
 
-## ⌨️ Comandos utilizados para esta atividade
+## <h3 align="center">Comandos utilizados para esta atividade<h3>
 
-#### ✔️ Questão 02
+####  Questão 02
 
 ```bash
 
@@ -23,7 +23,7 @@ $ git push -u origin main
 
 ```
 
-#### ✔️ Questão 03
+####  Questão 03
 
 ```bash
 
@@ -41,7 +41,7 @@ $ git push origin main
 
 ```
 
-#### ✔️ Questão 04
+####  Questão 04
 
 ```bash
 
@@ -65,7 +65,7 @@ $ git push origin main
 
 ```
 
-#### ✔️ Questão 05
+####  Questão 05
 
 ```bash
 # Criando o arquivo README.md:
